@@ -1,0 +1,76 @@
+{
+  "images" : [
+    {
+      "filename" : "australian1.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "australian2.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "australian3.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "australian4.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "german1.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "german2.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "german3.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "german4.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "golden1.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "golden2.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "golden3.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "golden4.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "golden5.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "stbernard1.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "stbernard2.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "stbernard3.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "stbernard4.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

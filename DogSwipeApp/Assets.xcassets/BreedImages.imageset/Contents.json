@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "filename" : "australian.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "german.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "golden.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "st_bernard.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
